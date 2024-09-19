@@ -44,5 +44,7 @@ The general public will have NoCodeClarity v2 during October 2024.
 
 Free Clarity contract deployment for [NOCC token holders](https://nocodeclarity.xyz/) by December.
 
+NoCodeHacking 2024, the world's first NoCode hackathon for Bitcoin, is taking place from December 3rd to December 16th. Learn more by [clikcing here](https://nocodehacking.com).
+
 # Contact
 For more information, visit [NoCodeClarity.ai](https://nocodeclarity.ai)
