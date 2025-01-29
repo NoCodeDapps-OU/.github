@@ -1,4 +1,4 @@
-# NoCodeClarity
+# NoCodeDapps
 
 AI. Bitcoin. NoCode. Launch.
 
@@ -14,15 +14,15 @@ To democratize the development of Bitcoin decentralized applications (dApps) by 
 
 Who
 
-- NoCodeClarity serves developers, non-developers, entrepreneurs, and innovators interested in building dApps on Bitcoin and Bitcoin L2s (also known as Bitcoin Layer 2s) without needing advanced coding skills. The platform has a growing community of NoCodeDevs and NoCodeAdvocates. We've been supported by orgranizations such as Microsoft for Startups and the Stacks Foundation.
+- NoCodeDapps serves developers, non-developers, entrepreneurs, and innovators interested in building dApps on Bitcoin and Bitcoin L2s (also known as Bitcoin Layer 2s) without needing advanced coding skills. The platform has a growing community of NoCodeDevs and NoCodeAdvocates. We've been supported by orgranizations such as Microsoft for Startups and the Stacks Foundation.
 
 What
 
-- NoCodeClarity is the world's first Bitcoin dApp launchpad for Bitcoin and Bitcoin L2s. As an AI-driven platform, NoCodeClarity simplifies the creation, deployment, and scaling of Bitcoin dApps. It offers tools to handle the entire lifecycle of dApp development — frontend, backend, and smart contracts — using a NoCode interface, making it accessible to everyone.
+- NoCodeDapps is the world's first Bitcoin dApp launchpad for Bitcoin and Bitcoin L2s. As an AI-driven platform, NoCodeDapps simplifies the creation, deployment, and scaling of Bitcoin dApps. It offers tools to handle the entire lifecycle of dApp development — frontend, backend, and smart contracts — using a NoCode interface, making it accessible to everyone.
 
 When
 
-- NoCodeClarity is operational today with its v1 platform already live. 
+- NoCodeDapps is operational today with its v1 platform already live. 
 
 Where
 
@@ -30,21 +30,21 @@ Where
 
 Why
 
-- NoCodeClarity exists to democratize access to Bitcoin and Bitcoin L2 development by lowering the barriers to entry. With less than 1% of the world knowing how to code, and Web3 having its own complexities, NoCodeClarity empowers users to build on Bitcoin without technical knowledge, accelerating adoption and innovation in the decentralized space.
+- NoCodeDapps exists to democratize access to Bitcoin and Bitcoin L2 development by lowering the barriers to entry. With less than 1% of the world knowing how to code, and Web3 having its own complexities, NoCodeDapps empowers users to build on Bitcoin without technical knowledge, accelerating adoption and innovation in the decentralized space.
 
 How
 
-- By combining AI and NoCode, NoCodeClarity automates much of the dApp development process. Users can input prompts to generate frontend code, use NoCode tools such as Bubble or Airtable for a backend, and deploy Bitcoin smart contracts in a frictionless environment. This end-to-end lifecycle workspace, combined with a user-friendly interface, allows both beginners and seasoned developers to build on Bitcoin swiftly.
+- By combining AI and NoCode, NoCodeDapps automates much of the dApp development process. Users can input prompts to generate frontend code, use NoCode tools such as Bubble or Airtable for a backend, and deploy Bitcoin smart contracts in a frictionless environment. This end-to-end lifecycle workspace, combined with a user-friendly interface, allows both beginners and seasoned developers to build on Bitcoin swiftly.
 
 # What's Next? 
 
-NoCodeClarity v2 is coming in late September for our [LifeTime Pass](https://stacks.gamma.io/collections/nocodeclarity-pass) holders! 
+NoCodeDapps v2 is coming in late September for our [LifeTime Pass](https://stacks.gamma.io/collections/NoCodeDapps-pass) holders! 
 
-The general public will have NoCodeClarity v2 during October 2024. 
+The general public will have NoCodeDapps v2 during October 2024. 
 
-Free Clarity contract deployment for [NOCC token holders](https://nocodeclarity.xyz/) by December.
+Free Clarity contract deployment for [NOCC token holders](https://NoCodeDapps.xyz/) by December.
 
 NoCodeHacking 2024, the world's first NoCode hackathon for Bitcoin, is taking place from December 3rd to December 16th. Learn more by [clikcing here](https://nocodehacking.com).
 
 # Contact
-For more information, visit [NoCodeClarity.ai](https://nocodeclarity.ai)
+For more information, visit [NoCodeDapps.ai](https://NoCodeDapps.ai)
