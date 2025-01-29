@@ -38,13 +38,7 @@ How
 
 # What's Next? 
 
-NoCodeDapps v2 is coming in late September for our [LifeTime Pass](https://stacks.gamma.io/collections/NoCodeDapps-pass) holders! 
-
-The general public will have NoCodeDapps v2 during October 2024. 
-
-Free Clarity contract deployment for [NOCC token holders](https://NoCodeDapps.xyz/) by December.
-
-NoCodeHacking 2024, the world's first NoCode hackathon for Bitcoin, is taking place from December 3rd to December 16th. Learn more by [clikcing here](https://nocodehacking.com).
+NoCodeDapps v2+ is coming in Q1 of 2025.
 
 # Contact
-For more information, visit [NoCodeDapps.ai](https://NoCodeDapps.ai)
+For more information, visit [NoCodeDapps.com](https://NoCodeDapps.com)
